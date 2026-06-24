@@ -6,3 +6,6 @@ The primary skill i am working on, in this repo is RAG
   1) Chunking
   2) Embedding
   3) Storage of vectors in Vectordb
+- RAG is of several types some of them are listed below:-
+  1)
+  

@@ -5,7 +5,7 @@ The primary skill i am working on, in this repo is RAG
   Major components of RAG:-
   1) Chunking
   2) Embedding
-  3) Storage of vectors in Vectordb
+  3) Storage of vectors in Vectordb database is Chromadb or FAISS
 - RAG is of several types some of them are listed below:-
   1)
   

@@ -8,4 +8,4 @@ The primary skill i am working on, in this repo is RAG
   3) Storage of vectors in Vectordb database is Chromadb or FAISS
 - RAG is of several types some of them are listed below:-
   1) Naive RAG:- the most basic/easy to understand rag
-  
+  2) Graphical RAG:- Graphs are used to understand/predict the results
